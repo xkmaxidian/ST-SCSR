@@ -18,9 +18,7 @@ Machine with 16 GB of RAM. (All datasets tested required less than 16 GB). No no
 
 ### Software requirements:
 
-#### Python supprt packages  (Python 3.9.18):
-
-scanpy, igraph, pandas, numpy, scipy, scanpy, anndata, sklearn, seaborn, torch, leidenalg, tqdm.
+#### Python supprt packages  (Python 3.9.0):
 
 For more details of the used package., please refer to 'requirements.txt' file
 
@@ -28,7 +26,7 @@ For more details of the used package., please refer to 'requirements.txt' file
 
 A jupyter Notebook of the tutorial for 10 $\times$ Visium is accessible from :  
 
-https://github.com/xkmaxidian/stACN/blob/master/tuorial/Tutorial1_10x_Visium%20(DLPFC_dataset).ipynb  
+https://github.com/xkmaxidian/ST-SCSR/blob/master/tutorials/Tutorial_IDCNMF_DLPFC151675.ipynb
 
 ## Compared spatial domain identification algorithms
 
